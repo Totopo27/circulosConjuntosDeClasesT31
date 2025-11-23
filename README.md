@@ -5,7 +5,7 @@ Forma parte de la serie de herramientas interactivas para el análisis y visuali
 
 ---
 
-## 🎯 Descripción general
+## Descripción general
 
 El sistema visualiza tres círculos concéntricos:
 
